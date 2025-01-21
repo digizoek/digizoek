@@ -1,0 +1,22 @@
+  [
+  { "name": "html", "type": "svg", "icon": "html", "height": 40, "width": 40 },
+  { "name": "css", "type": "svg", "icon": "css", "height": 40, "width": 40 },
+  { "name": "javascript", "type": "svg", "icon": "javascript", "height": 40, "width": 40 },
+  { "name": "jquery", "type": "svg", "icon": "jquery", "height": 40, "width": 40 },
+  { "name": "reactjs", "type": "svg", "icon": "reactjs", "height": 40, "width": 40 },
+  { "name": "redux", "type": "svg", "icon": "redux", "height": 40, "width": 40 },
+  { "name": "next", "type": "svg", "icon": "nextjs", "height": 60, "width": 60 },
+  { "name": "angular", "type": "svg", "icon": "angular", "height": 40, "width": 40 },
+  { "name": "node-js-icon", "type": "svg", "icon": "node-js-icon", "height": 60, "width": 60 },
+  { "name": "express", "type": "svg", "icon": "express", "height": 60, "width": 60 },
+  { "name": "mongodb", "type": "svg", "icon": "mongodb", "height": 25, "width": 25 },
+  { "name": "python", "type": "svg", "icon": "python", "height": 40, "width": 40 },
+  { "name": "docker", "type": "svg", "icon": "docker", "height": 40, "width": 40 },
+  { "name": "chakraUI", "type": "png", "icon": "chakraUI", "height": 40, "width": 40 },
+  { "name": "mui", "type": "png", "icon": "mui", "height": 40, "width": 40 },
+  { "name": "mysql", "type": "svg", "icon": "mysql", "height": 60, "width": 60 },
+  { "name": "postgresql", "type": "svg", "icon": "postgresql", "height": 40, "width": 40 },
+  { "name": "cSharp", "type": "svg", "icon": "cSharp", "height": 40, "width": 40 },
+  { "name": "google-firebase", "type": "svg", "icon": "google-firebase", "height": 30, "width": 30 },
+  { "name": "graphql", "type": "svg", "icon": "graphql", "height": 40, "width": 40 }
+]

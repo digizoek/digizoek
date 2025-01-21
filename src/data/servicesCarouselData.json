@@ -1,0 +1,292 @@
+{
+  "artificial-intelligence-ml": {
+    "heading": "AI Development",
+    "subcategories": [
+      {
+        "id": "machine-learning-solutions",
+        "title": "Machine Learning Solutions",
+        "description": "Empower your business with advanced machine learning solutions tailored to your needs. From predictive analytics to intelligent automation, we help you turn data into actionable insights that drive growth."
+      },
+      {
+        "id": "custom-computer-vision-solutions",
+        "title": "Custom Computer Vision Solutions",
+        "description": "Enhance your operations with our custom computer vision solutions. We specialize in image and video analysis, enabling object detection and recognition that optimize workflows and improve decision-making."
+      },
+      {
+        "id": "deep-learning-services",
+        "title": "Deep Learning",
+        "description": "Utilize advanced deep learning techniques to uncover complex patterns and insights within your data. Our deep learning models enable you to make informed decisions based on predictive analytics, driving strategic initiatives that lead to significant business advancements."
+      },
+      {
+        "id": "generative-ai",
+        "title": "Generative AI",
+        "description": "Transform your operational efficiency and user engagement with our innovative Generative AI solutions. By automating workflows and generating unique content tailored to your audience, we help you create personalized experiences that resonate with users and drive business growth."
+      },
+      {
+        "id": "ai-strategy-and-consultation",
+        "title": "AI Strategy And Consultation",
+        "description": "Maximize your AI investments with our expert AI strategy and consultation services. We guide you in identifying opportunities, developing effective roadmaps, and implementing scalable AI solutions for lasting success."
+      },
+      {
+        "id": "natural-language-processing",
+        "title": "Natural Language Processing (LLM)",
+        "description": "Improve customer interactions with our natural language processing (NLP) services. We create intelligent systems that understand and generate human language, enhancing communication and user engagement across platforms."
+      },
+      {
+        "id": "ai-model-training-deployment",
+        "title": "AI Model Training & Deployment",
+        "description": "Accelerate your AI initiatives with our AI model training and deployment services. We ensure robust performance of custom models, seamlessly integrating them into your applications for optimal results."
+      },
+      {
+        "id": "ai-integration-with-existing-systems",
+        "title": "AI Integration with Existing Systems",
+        "description": "Transform your existing infrastructure with AI integration services. We embed intelligent features into your current systems, enhancing functionality and driving innovation without disrupting your operations."
+      },
+      {
+        "id": "ai-for-personalization",
+        "title": "AI for Personalization",
+        "description": "Boost customer engagement with our AI-driven personalization solutions. We analyze user data to deliver tailored experiences, increasing satisfaction and loyalty through customized recommendations."
+      },
+      {
+        "id": "custom-chatbots",
+        "title": "Custom Chatbots",
+        "description": "Revolutionize customer support with our custom chatbot solutions. Our intelligent chatbots provide instant assistance, automate inquiries, and enhance user experience, saving time and resources for your business."
+      }
+    ]
+  },
+  "data-science": {
+    "heading": "Data Science",
+    "subcategories": [
+      {
+        "id": "business-intelligence-solutions",
+        "title": "Business Intelligence (BI) Solutions",
+        "description": "Empower your organization with Business Intelligence (BI) solutions. We help you transform raw data into actionable insights for better decision-making, operational efficiency, and growth."
+      },
+      {
+        "id": "data-analytics-with-ai",
+        "title": "Data Analytics with AI",
+        "description": "Leverage the power of Artificial Intelligence to unlock deep insights from your data. Our AI-driven data analytics solutions enhance your ability to make data-backed decisions and predict future trends."
+      },
+      {
+        "id": "data-cleaning-preprocessing",
+        "title": "Data Cleaning & Preprocessing",
+        "description": "Ensure the accuracy of your data with our data cleaning and preprocessing services. We clean, format, and structure your data, ensuring it's ready for analysis and actionable insights."
+      },
+      {
+        "id": "big-data-solutions",
+        "title": "Big Data Solutions",
+        "description": "Harness the power of big data to drive innovation and scalability. Our big data solutions allow businesses to process and analyze large datasets, unlocking insights that fuel growth and optimization."
+      },
+      {
+        "id": "descriptive-data-analysis",
+        "title": "Descriptive Data Analysis",
+        "description": "Understand your data’s history with descriptive data analysis. We provide clear insights into past trends and patterns, helping you gain valuable insights to inform business strategies and decisions."
+      },
+      {
+        "id": "predictive-analytics",
+        "title": "Predictive Analytics",
+        "description": "Anticipate future trends and make proactive decisions with predictive analytics. Our solutions utilize historical data to predict outcomes, enabling you to optimize strategies and minimize risks."
+      },
+      {
+        "id": "data-visualization",
+        "title": "Data Visualization",
+        "description": "Transform complex data into easy-to-understand visuals with our data visualization services. We create compelling and interactive dashboards and reports that help you quickly grasp key insights."
+      },
+      {
+        "id": "customer-market-analytics",
+        "title": "Customer & Market Analytics",
+        "description": "Deepen your understanding of customers and markets with our analytics solutions. We analyze customer behaviors, market trends, and competitor data to drive more effective marketing and business strategies."
+      },
+      {
+        "id": "data-warehousing-etl-services",
+        "title": "Data Warehousing & ETL Services",
+        "description": "Build a solid foundation for your data with our data warehousing and ETL (Extract, Transform, Load) services. We help you integrate, manage, and store large volumes of data efficiently and securely."
+      },
+      {
+        "id": "data-science-consultation",
+        "title": "Data Science Consultation",
+        "description": "Receive expert advice and guidance with our data science consultation services. We help businesses leverage data science techniques to solve complex problems and develop tailored data-driven strategies."
+      }
+    ]
+  },
+  "website-development":{
+    "heading": "Website Development",
+    "subcategories":[
+      {
+        "id": "custom-website-development",
+        "title": "Custom Website Development",
+        "description": "Create a unique online presence with our Custom Website Development services. We design tailored websites that reflect your brand identity."
+      },
+      {
+        "id": "cms-website-development",
+        "title": "CMS Website Development",
+        "description": "Streamline content management with our CMS Website Development solutions. We develop user-friendly systems for easy website updates."
+      },
+      {
+        "id": "saas-website-development",
+        "title": "SaaS Website Development",
+        "description": "Launch your software solutions with our SaaS Website Development services. We build scalable platforms that enhance user experience."
+      },
+      {
+        "id": "enterprise-web-development",
+        "title": "Enterprise Web Development",
+        "description": "Elevate operations with our Enterprise Web Development services. We create robust applications tailored to meet complex organizational needs."
+      },
+      {
+        "id": "website-redesign-and-revamp",
+        "title": "Website Redesign and Revamp",
+        "description": "Refresh your online presence with our Website Redesign services. Enhance aesthetics and functionality for a modern, user-friendly site."
+      },
+      {
+        "id": "progressive-web-app",
+        "title": "Progressive Web App (PWA)",
+        "description": "Engage users with our Progressive Web App solutions. We develop fast, reliable apps that provide a native app-like experience on any device."
+      },  
+      {
+        "id": "web-portal-development",
+        "title": "Web Portal Development",
+        "description": "Facilitate seamless communication with our Web Portal Development services. Create custom portals that improve collaboration within organizations."
+      },
+      {
+        "id": "educational-elearning-website-development",
+        "title": "Educational and eLearning Website Development",
+        "description": "Transform learning experiences with our Educational Website Development solutions. Build interactive platforms for effective online education."
+      }
+    ]
+  },
+  "ui-ux-design":{
+    "heading": "UI/UX Design",
+    "subcategories":[
+      {
+        "id": "custom-ui-design",
+        "title": "Custom UI Design",
+        "description": "Create visually stunning interfaces with our Custom UI Design services. We tailor designs to enhance user engagement and align with your brand identity."
+      },
+      {
+        "id": "responsive-design",
+        "title": "Responsive Design",
+        "description": "Ensure a seamless user experience across all devices with our Responsive Design services. We create adaptable layouts that look great on any screen size."
+      },
+      {
+        "id": "wireframes-prototyping",
+        "title": "Wireframes & Prototyping",
+        "description": "Visualize your ideas with our Wireframes & Prototyping services. We develop interactive prototypes that facilitate feedback and streamline the design process."
+      },
+      {
+        "id": "visual-design",
+        "title": "Visual Design",
+        "description": "Enhance your brand's appeal with our Visual Design services. We focus on aesthetics and functionality to create compelling user interfaces that captivate users."
+      },
+      {
+        "id": "mobile-app-design",
+        "title": "Mobile App Design",
+        "description": "Design intuitive mobile applications with our Mobile App Design services. We prioritize user experience to ensure your app is engaging and easy to navigate."
+      },
+      {
+        "id": "user-research-testing",
+        "title": "User Research & Testing",
+        "description": "Gain valuable insights with our User Research & Testing services. We conduct thorough research and testing to inform design decisions and improve usability."
+      },
+      {
+        "id": "ux-strategy-consultation",
+        "title": "UX Strategy & Consultation",
+        "description": "Develop a user-centric approach with our UX Strategy & Consultation services. We help you create effective strategies that enhance user satisfaction and drive engagement."
+      },
+      {
+        "id": "ui-ux-web-applications",
+        "title": "UI/UX for Web Applications",
+        "description": "Optimize your web applications with our UI/UX services. We design intuitive interfaces that improve usability and enhance the overall user experience."
+      }
+    ]    
+  },
+  "mobile-development":{
+    "heading": "Mobile Development",
+    "subcategories":[
+      {
+        "id": "ios-android-app-development",
+        "title": "iOS / Android App Development",
+        "description": "Develop high-quality mobile applications for both iOS and Android platforms. Our expert team ensures seamless performance and user-friendly interfaces."
+      },
+      {
+        "id": "native-app-development",
+        "title": "Native App Development",
+        "description": "Create robust native applications that leverage the full power of iOS and Android. We focus on performance, security, and superior user experience."
+      },
+      {
+        "id": "ecommerce-app-development",
+        "title": "Ecommerce App Development",
+        "description": "Transform your retail business with our Ecommerce App Development services. We build secure, user-friendly apps that enhance shopping experiences."
+      },
+      {
+        "id": "cross-platform-app-development",
+        "title": "Cross-Platform App Development",
+        "description": "Reach a wider audience with our Cross-Platform App Development solutions. We create versatile apps that perform seamlessly on both iOS and Android."
+      },
+      {
+        "id": "mobile-app-testing-qa",
+        "title": "Mobile App Testing & QA",
+        "description": "Ensure your app's success with our comprehensive Mobile App Testing & QA services. We conduct rigorous testing to ensure a flawless user experience."
+      },
+      {
+        "id": "mobile-app-maintenance-support",
+        "title": "Mobile App Maintenance & Support",
+        "description": "Keep your app running smoothly with our Mobile App Maintenance & Support services. We provide ongoing updates and technical assistance to enhance user satisfaction."
+      },
+      {
+        "id": "mobile-app-consultation",
+        "title": "Mobile App Consultation",
+        "description": "Get expert guidance with our Mobile App Consultation services. We help refine your app idea, choose the right technologies, and develop a strategic roadmap."
+      },
+      {
+        "id": "ui-ux-design-mobile-apps",
+        "title": "UI/UX Design for Mobile Apps",
+        "description": "Enhance user engagement with our UI/UX Design for Mobile Apps. We create intuitive interfaces and engaging experiences that drive retention and satisfaction."
+      }
+    ]    
+  },
+  "ecommerce-dev":{
+    "heading": "Ecommerce Development",
+    "subcategories":[
+      {
+        "id": "custom-ecommerce-website-development",
+        "title": "Custom eCommerce Website Development",
+        "description": "Build tailored eCommerce websites that meet your unique business needs. We create user-friendly, secure platforms that enhance shopping experiences."
+      },
+      {
+        "id": "multi-vendor-marketplace-development",
+        "title": "Multi-Vendor Marketplace Development",
+        "description": "Develop robust multi-vendor marketplaces that connect buyers and sellers. Our solutions facilitate seamless transactions and enhance user engagement."
+      },
+      {
+        "id": "b2b-b2c-ecommerce-solutions",
+        "title": "B2B and B2C eCommerce Solutions",
+        "description": "Implement effective B2B and B2C eCommerce solutions tailored to your business model. We optimize processes to drive sales and improve customer satisfaction."
+      },
+      {
+        "id": "platform-based-ecommerce-development",
+        "title": "Platform-Based eCommerce Development",
+        "description": "Leverage popular platforms for eCommerce development. We customize solutions on platforms like Shopify, WooCommerce, and Magento to suit your business needs."
+      },
+      {
+        "id": "mobile-ecommerce-solutions",
+        "title": "Mobile eCommerce Solutions",
+        "description": "Capture mobile shoppers with our Mobile eCommerce Solutions. We design responsive websites and apps that provide seamless shopping experiences on any device."
+      },
+      {
+        "id": "ecommerce-marketing-services",
+        "title": "eCommerce Marketing Services",
+        "description": "Boost your online sales with our eCommerce Marketing Services. We develop targeted strategies to increase visibility, traffic, and conversions."
+      },
+      {
+        "id": "ecommerce-seo-services",
+        "title": "eCommerce SEO Services",
+        "description": "Enhance your online presence with our eCommerce SEO Services. We optimize your website to improve search rankings and drive organic traffic."
+      },
+      {
+        "id": "ecommerce-maintenance-support",
+        "title": "eCommerce Maintenance & Support",
+        "description": "Ensure your eCommerce site runs smoothly with our Maintenance & Support services. We provide ongoing updates, security checks, and technical assistance."
+      }
+    ]    
+  }
+}

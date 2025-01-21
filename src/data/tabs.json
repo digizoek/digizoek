@@ -1,0 +1,91 @@
+[
+  {
+    "id": "ui-ux-design",
+    "title": "UI & UX Design",
+    "icon": "Cloud",
+    "content": {
+      "heading": "UI & UX Design",
+      "description": "Our UI & UX design services are designed to help businesses create a seamless user experience that keeps customers coming back for more.",
+      "skills": [
+        { "name": "Figma", "type": "svg", "icon": "figma", "height": 40, "width": 40 },
+        { "name": "AdobeXD", "type": "svg", "icon": "adobexd", "height": 40, "width": 40 },
+        { "name": "Sketch", "type": "svg", "icon": "sketch", "height": 40, "width": 40 },
+        { "name": "InVision", "type": "svg", "icon": "invision", "height": 40, "width": 40 }
+      ]
+    }
+  },
+  {
+    "id": "website-development",
+    "title": "Website Development",
+    "icon": "MonitorSmartphone",
+    "content": {
+      "heading": "Website Development",
+      "description": "We specialize in creating high-performance, secure web applications that help businesses accelerate growth and achieve long-term success.",
+      "skills": [
+        { "name": "html", "type": "svg", "icon": "html", "height": 40, "width": 40 },
+        { "name": "css", "type": "svg", "icon": "css", "height": 40, "width": 40 },
+        { "name": "javascript", "type": "svg", "icon": "javascript", "height": 40, "width": 40 },
+        { "name": "reactjs", "type": "svg", "icon": "reactjs", "height": 40, "width": 40 },
+        { "name": "node-js-icon", "type": "svg", "icon": "node-js-icon", "height": 60, "width": 60 },
+        { "name": "next", "type": "svg", "icon": "nextjs", "height": 60, "width": 60 }
+      ]
+    }
+  },
+  {
+    "id": "ai-ml",
+    "title": "AI & ML",
+    "icon": "BrainCircuit",
+    "content": {
+      "heading": "Artificial Intelligence & Machine Learning",
+      "description": "AI & ML technologies are revolutionizing the way businesses operate, enabling them to automate processes, gain valuable insights, and make data-driven decisions.",
+      "skills": [
+        { "name": "python", "type": "svg", "icon": "python", "height": 40, "width": 40 },
+        { "name": "tensorflow", "type": "svg", "icon": "tensorflow", "height": 40, "width": 40 },
+        { "name": "keras", "type": "svg", "icon": "keras", "height": 40, "width": 40 },
+        { "name": "pytorch", "type": "svg", "icon": "pytorch", "height": 40, "width": 40 }
+      ]
+    }
+  },
+  {
+    "id": "hire-dev",
+    "title": "Hire Dev",
+    "icon": "Users",
+    "content": {
+      "heading": "Hire Dev",
+      "description": "Our Product Engineering Services cover product management, design, development, DevOps, testing, security & more.",
+      "skills": [
+        { "name": "reactjs", "type": "svg", "icon": "reactjs", "height": 40, "width": 40 },
+        { "name": "node-js-icon", "type": "svg", "icon": "node-js-icon", "height": 40, "width": 40 },
+        { "name": "docker", "type": "svg", "icon": "docker", "height": 40, "width": 40 }
+      ]
+    }
+  },
+  {
+    "id": "emerging-tech",
+    "title": "Emerging Technologies",
+    "icon": "Package",
+    "content": {
+      "heading": "Emerging Technologies",
+      "description": "Our Product Engineering Services cover product management, design, development, DevOps, testing, security & more.",
+      "skills": [
+        { "name": "blockchain", "type": "svg", "icon": "blockchain", "height": 40, "width": 40 },
+        { "name": "ai", "type": "svg", "icon": "ai", "height": 40, "width": 40 },
+        { "name": "iot", "type": "svg", "icon": "iot", "height": 40, "width": 40 }
+      ]
+    }
+  },
+  {
+    "id": "blockchain-web3",
+    "title": "Blockchain & Web 3.0",
+    "icon": "Hexagon",
+    "content": {
+      "heading": "Blockchain & Web 3.0",
+      "description": "Our Product Engineering Services cover product management, design, development, DevOps, testing, security & more.",
+      "skills": [
+        { "name": "ethereum", "type": "svg", "icon": "ethereum", "height": 40, "width": 40 },
+        { "name": "web3", "type": "svg", "icon": "web3", "height": 40, "width": 40 },
+        { "name": "solidity", "type": "svg", "icon": "solidity", "height": 40, "width": 40 }
+      ]
+    }
+  }
+]
